@@ -8,7 +8,7 @@
 
 <h2 align="center">Comportamento do Consumidor e Hábitos de Compra em Comércio Eletrônico<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="15"> </h2>
 
-Este repositório contém um projeto de análise exploratória que investiga o comportamento do consumidor e hábitos de compra em comércio eletrônico. O projeto envolveu diversas etapas, desde o pré-processamento dos dados no LibreOffice Calc até a análise exploratória no SQL e a criação de um dashboard no Power BI.
+Este repositório contém um projeto de análise exploratória que investiga o comportamento do consumidor e hábitos de compra em comércio eletrônico. O projeto envolveu diversas etapas, desde o pré-processamento dos dados no LibreOffice Calc até a análise exploratória no MySQL e a criação de um dashboard no Power BI.
 
 Os dados utilizados nas análises estão disponíveis em [Consumer Behavior and Shopping Habits Dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data).
 
